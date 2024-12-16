@@ -50,6 +50,7 @@ class BankloanAdmin(admin.ModelAdmin):
 # OUTPUT
 ![alt text](<Screenshot (25).png>)
 
+  ![WhatsApp Image 2024-12-16 at 10 43 28_bf9c6217](https://github.com/user-attachments/assets/ab4dd201-7a48-40ee-af85-a2ff168a6353)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
